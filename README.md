@@ -1,4 +1,4 @@
-# EDCBaseDatos
+# EDC Python
 
 **Duración:** 40 horas (20 sesiones)
 
@@ -7,7 +7,7 @@
 **Temario**
 
 1. [Introducción al lenguaje de programación](./1.IntroduccionLenguajeProgramacion.md)
-2. [Números enteros y reales]()
+2. [Variables y tipos de datos simples](./2.VariablesTiposDatosSimples.md)
 3. [Operadores]()
 4. [Tipos de colección de datos]()
 5. [Sentencias condicionales]() 
@@ -21,5 +21,6 @@
 13. [Entrada estándar rawInput]()
 14. [Salida estándar rawInput]()
 15. [Módulos]()
+16. [Retos](./16.Retos.md)
 
 [**Link a moodle**](https://educacion.pilares.cdmx.gob.mx/)

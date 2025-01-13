@@ -8,7 +8,7 @@
 
 1. [Introducción al lenguaje de programación](./1.IntroduccionLenguajeProgramacion.md)
 2. [Variables y tipos de datos simples](./2.VariablesTiposDatosSimples.md)
-3. [Operadores]()
+3. [Operadores](./3.Operadores.md)
 4. [Tipos de colección de datos]()
 5. [Sentencias condicionales]() 
 6. [Programación orientada a objetos]()

@@ -12,17 +12,17 @@
 4. [Sentencias condicionales](./4.SentenciasCondicionales.md) 
 5. [Retos](./16.Retos.md)
 
-<!-->6. [Programación orientada a objetos]()<-->
-<!-->7. [Métodos de objetos]()<-->
-<!-->8. [Programación funcional]()<-->
-<!-->9. [Comprensión de listas]()<-->
-<!-->4. [Colecciones de datos]()<-->
-<!-->10. [Generadores]()<-->
-<!-->11. [Clases decoradoras]()<-->
-<!-->12. [Excepciones]()<-->
-<!-->13. [Entrada estándar rawInput]()<-->
-<!-->14. [Salida estándar rawInput]()<-->
-<!-->15. [Módulos]()<-->
+<!-->6. [Programación orientada a objetos]()
+7. [Métodos de objetos]()
+8. [Programación funcional]()
+9. [Comprensión de listas]()
+4. [Colecciones de datos]()
+10. [Generadores]()
+11. [Clases decoradoras]()
+12. [Excepciones]()
+13. [Entrada estándar rawInput]()
+14. [Salida estándar rawInput]()
+15. [Módulos]()<-->
 
 
 [**Link a moodle**](https://educacion.pilares.cdmx.gob.mx/)

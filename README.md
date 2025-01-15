@@ -13,3 +13,6 @@
 5. [Retos](./16.Retos.md)
 
 [**Link a moodle**](https://educacion.pilares.cdmx.gob.mx/)
+[**Libro python**](https://edisciplinas.usp.br/pluginfile.php/7880239/mod_folder/content/0/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20%282023%29.pdf)
+
+

@@ -1,4 +1,4 @@
-#if simple (True)
+#if simple
 
 edad = int(input("Cuantos años tienes?"))
 

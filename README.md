@@ -11,7 +11,9 @@
 3. [Operadores](./3.Operadores.md)
 4. [Sentencias condicionales](./4.SentenciasCondicionales.md) 
 5. [Bucles](./5.Bucles.md)
-6. [Retos](./16.Retos.md)
+6. [Colecciones de datos](./6.ColeccionesDatos.md)
+7. [Strings](./7.Strings.md)
+8. [Retos](./16.Retos.md)
 
 [**Link a moodle**](https://educacion.pilares.cdmx.gob.mx/)
 

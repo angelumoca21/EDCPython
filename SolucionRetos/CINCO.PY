@@ -1,6 +1,6 @@
 # Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces.
 
-"""palabra = input("Ingresa una palabra:")
+palabra = input("Ingresa una palabra:")
 for i in range(10):
     print(palabra)
 
@@ -16,10 +16,10 @@ for i in range(1,11):
 contraseña = "pilares"
 password = input("Ingresa la contraseña:")
 
-while password != "pilares":
-    print("Contraseña erronea.")
+while password != contraseña:
+    print("Contraseña errónea.")
     password = input("Ingresa la contraseña:")
-    if password == "pilares":
+    if password == contraseña:
         print("Bienvenido, inicio exitoso")
 
 #Sol. 2
@@ -31,10 +31,10 @@ while True:
         print("Bienvenido, inicio exitoso")
         break
     else:
-        print("Contraseña errónea.")"""
+        print("Contraseña errónea.")
 
 # Escribir un programa que pida al usuario un número entero y muestre por pantalla si es un número primo o no.
-# 5 -> primo, 6->no primo, 29->primo
+
 numero = int(input("Ingresa un numero:"))
 divisores = 2
 for i in range(2,numero):
@@ -45,3 +45,18 @@ if divisores == 2:
     print(f"{numero} es primo")
 else:
     print(f"{numero} no es primo")
+
+# Escribe un programa que muestre por consola (con un print) los números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:
+# - Múltiplos de 3 por la palabra "fizz".
+# - Múltiplos de 5 por la palabra "buzz".
+# - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
+
+for i in range(1,101):
+    if i%3==0 and i%5==0:
+        print("fizzbuzz")
+    elif i%3==0:
+        print("fizz")
+    elif i%5==0:
+        print("buzz")
+    else:
+        print(i)

@@ -12,7 +12,9 @@
 4. [Sentencias condicionales](./4.SentenciasCondicionales.md) 
 5. [Bucles](./5.Bucles.md)
 6. [Colecciones de datos](./6.ColeccionesDatos.md)
-7. [Retos](./16.Retos.md)
+7. [Funciones](./7.Funciones.md)
+8. [Programación orientada a objetos](./8.Poo.md)
+9. [Retos](./16.Retos.md)
 
 [**Link a moodle**](https://educacion.pilares.cdmx.gob.mx/)
 

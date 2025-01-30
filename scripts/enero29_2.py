@@ -11,5 +11,7 @@ except ValueError:
 
 except AssertionError:
     print("Error personalizado")
-
-print("Final")
+else:
+    print("El usuario no rompió mi código.")
+finally : 
+    print("Final")

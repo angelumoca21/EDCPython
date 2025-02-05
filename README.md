@@ -14,7 +14,7 @@
 6. [Colecciones de datos](./6.ColeccionesDatos.md)
 7. [Funciones](./7.Funciones.md)
 8. [Manejo de excepciones](./8.ManejoExcepciones.md)
-9. [Programación orientada a objetos]()
+9. [Programación orientada a objetos](./9.poo.md)
 10. [Retos](./16.Retos.md)
 
 [**Link a moodle**](https://educacion.pilares.cdmx.gob.mx/)
